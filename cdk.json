@@ -15,7 +15,7 @@
     ]
   },
   "context": {
-    "GITHUB_OWNER": "sudhakar.a.tripathi@accenture.com",
+    "GITHUB_OWNER": "joshikanlu",
     "GITHUB_REPO": "https://gitlab.com/aabg/velocity/fabric-teams/scf/tse-se-lz.git",
     "MODEL_ID": "anthropic.claude-3-sonnet-20240229-v1:0",
     "KB_ID": "F9KZTDZZWH",
